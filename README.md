@@ -231,7 +231,3 @@ See [`docs/KIRO_USAGE.md`](docs/KIRO_USAGE.md) for the task-by-task log.
 ## Data credits & licences
 
 MBTA (public API terms) · Bluebikes system data (Bluebikes data licence) · City of Boston Open Data (Numina sensors) · OpenAlex (CC0) · BU event-space and dining information from bu.edu pages · Hackachusetts 2026 campus data portal. Check each source's terms before reusing the data.
-
-## Team
-
-*[Add team names and roles]*
